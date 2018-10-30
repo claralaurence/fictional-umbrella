@@ -1,0 +1,11 @@
+body{
+  display: block;
+  margin: 80 px;
+  text-align:center;
+}
+
+.loginbutton{
+background-color: #fff0000;
+border: solid;
+color; black;  
+}
